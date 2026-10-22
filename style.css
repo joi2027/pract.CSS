@@ -1,0 +1,21 @@
+p {
+  color: gray;
+}
+.warning {
+  color: red;
+  font-weight: bold;
+}
+#main-title {
+  text-align: center;
+  color: green;
+}
+.card {
+  background-color: #eeeeee;
+  padding: 20px;
+}
+.item {
+  color: goldenrod;
+  font-weight: bold;
+}
+.warning { color: red; }
+.large { font-size: 24px; }
